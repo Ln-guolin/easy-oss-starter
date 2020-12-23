@@ -1,11 +1,11 @@
 <p align="center">
-	<a href="https://github.com/Ln-guolin/spring-boot-starter-oss"><img src="https://soilove.oss-cn-hangzhou.aliyuncs.com/32e/pro-mall/easy-oss-starter.png" width="350px"></a>
+	<a href="https://github.com/Ln-guolin/easy-oss-starter"><img src="https://soilove.oss-cn-hangzhou.aliyuncs.com/32e/pro-mall/easy-oss-starter.png" width="350px"></a>
 </p>
 <p align="center">
 	<strong>阿里云OSS云存储操作SpringBoot Starter，基于阿里云OSS SDK封装</strong>
 </p>
 <p align="center">
-	<a target="_blank" href="https://github.com/Ln-guolin/spring-boot-starter-cache/blob/master/LICENSE">
+	<a target="_blank" href="https://github.com/Ln-guolin/easy-oss-starter/blob/master/LICENSE">
 		<img src="https://img.shields.io/:license-Apache2.0-blue.svg" />
 	</a>
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
@@ -14,17 +14,17 @@
 	<a target="_blank" href="https://gitter.im/pro-32e/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
 		<img src="https://badges.gitter.im/pro-32e/community.svg" />
 	</a>
-	<a href="https://github.com/Ln-guolin/spring-boot-starter-oss">
-        <img src="https://img.shields.io/github/repo-size/Ln-guolin/spring-boot-starter-oss"/>
+	<a href="https://github.com/Ln-guolin/easy-oss-starter">
+        <img src="https://img.shields.io/github/repo-size/Ln-guolin/easy-oss-starter"/>
     </a>
-	<a href="https://github.com/Ln-guolin/spring-boot-starter-oss">
-        <img src="https://img.shields.io/github/issues-raw/Ln-guolin/spring-boot-starter-oss"/>
+	<a href="https://github.com/Ln-guolin/easy-oss-starter">
+        <img src="https://img.shields.io/github/issues-raw/Ln-guolin/easy-oss-starter"/>
     </a>
-    <a href="https://github.com/Ln-guolin/spring-boot-starter-oss">
-        <img src="https://img.shields.io/github/v/tag/Ln-guolin/spring-boot-starter-oss?include_prereleases"/>
+    <a href="https://github.com/Ln-guolin/easy-oss-starter">
+        <img src="https://img.shields.io/github/v/tag/Ln-guolin/easy-oss-starter?include_prereleases"/>
     </a>
-	<a href="https://github.com/Ln-guolin/spring-boot-starter-oss">
-        <img src="https://img.shields.io/github/stars/Ln-guolin/spring-boot-starter-oss?style=social"/>
+	<a href="https://github.com/Ln-guolin/easy-oss-starter">
+        <img src="https://img.shields.io/github/stars/Ln-guolin/easy-oss-starter?style=social"/>
     </a>
 </p>
 
@@ -35,8 +35,8 @@
 <!-- oss组件 -->
 <dependency>
     <groupId>cn.soilove</groupId>
-    <artifactId>spring-boot-starter-oss</artifactId>
-    <version>${last.version}</version>
+    <artifactId>easy-oss-starter</artifactId>
+    <version>1.0.2</version>
 </dependency>
 ```
 

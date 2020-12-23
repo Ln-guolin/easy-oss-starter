@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.soilove</groupId>
-    <artifactId>spring-boot-starter-oss</artifactId>
-    <version>1.0.1</version>
-    <name>spring-boot-starter-oss</name>
-    <description>Aliyun oss Spring Boot starter</description>
+    <artifactId>easy-oss-starter</artifactId>
+    <version>1.0.2</version>
+    <name>easy-oss-starter</name>
+    <description>Aliyun oss spring boot starter</description>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
@@ -162,7 +162,7 @@
 
     <!--scm信息-->
     <scm>
-        <url>http://git.soilove.cn/root/spring-boot-starter-oss</url>
+        <url>https://github.com/Ln-guolin/easy-oss-starter</url>
     </scm>
 
     <!--licenses信息 -->
